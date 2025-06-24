@@ -1,12 +1,6 @@
 body{
-    background-color: beige;
+    background:linear-gradient(15deg, yellow ,pink , blue);
     margin: 0;
     padding: 0;
 }
-/* #contaner{
-   display: flex;
-   flex-direction: column;
-   align-content: first baseline;
-   gap: 10px;
-   
-} */
+
