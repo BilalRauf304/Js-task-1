@@ -1,5 +1,5 @@
 body{
-    background:linear-gradient(15deg, yellow ,pink , blue);
+    background:linear-gradient(15deg, rgb(83, 248, 83), yellow ,rgb(238, 155, 169) , blue);
     margin: 0;
     padding: 0;
 }
